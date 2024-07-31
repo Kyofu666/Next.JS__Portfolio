@@ -1,7 +1,7 @@
 "use client";
 
 import { FaLocationArrow } from "react-icons/fa6";
-import { projects } from "@/data";
+import { projects } from "../data";
 import { useState } from "react";
 import MagicButton from "./MagicButton";
 

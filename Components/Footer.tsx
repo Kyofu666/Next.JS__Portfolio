@@ -2,7 +2,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 import { FaWhatsapp } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 
-import { socialMedia } from "@/data";
+import { socialMedia } from "../data";
 import MagicButton from "./MagicButton";
 
 const Footer = () => {
