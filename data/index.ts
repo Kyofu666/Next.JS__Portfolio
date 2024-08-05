@@ -70,7 +70,7 @@ export const projects = [
     info: "Responsive Portfolio using Tailwind CSS and React.JS",
     github: "https://github.com/Kyofu666/tailwind-portfolio",
     iconLists: ["/tail.svg", "/react.png"],
-    demo: "https://wilems-multi-step-form.netlify.app/",
+    demo: "https://tailwind-portfolio-demo.netlify.app/",
   },
   {
     id: 6,
